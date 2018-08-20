@@ -23,4 +23,10 @@
 1.해당 폴더로 이동
 >_cd '해당폴더 이름'_
 
->_git init_
+git clone으로 github repository를 '복제'했을 경우에는 
+
+>git init
+
+라는 명령을 따로 할 필요 없다. 탐색기에서 숨김파일 보이기 옵션을 선택하면 '.git' 폴더가 생성되어 숨겨진 것을 볼 수 있다.
+
+## commit message를 수정하고 싶은 경우
